@@ -56,15 +56,24 @@ Nombre: Juan Felipe Criollo Valderrama
 12. se quita el disco optico para que no se vuelva reniciar la instalacion
 <img src="Paso9.png" alt="">
 
-13. seleccionamos 
+13. Seleccionamos 
 * Enter an option: 2
 * Enter the number of the interface you wich to configure: 2
 <img src="Paso10.png" alt="">
 
-14. seleccionamos
+14. Seleccionamos
 * Configure Ipv4 address LAN interface via DHCP (y/n) n
 * Enter the new LAN Ipv4 address. Press <ENTER> for none:
   > 192. 168.10.1
 * Enter the new LAN IPv4 subnet bit count (1 to 32):
   > 24
 <img src="Paso11.png" alt="">
+
+15. Seleccionamos
+* Configure Ipv6 addres Lan interface via DHCP6 (y/n) n
+* DO you  want to... LAN? (y/n) y
+* Enter the start address of the IPv4... range: 192.168.10.100
+* Enter the end address of the Ipv4... range: 192.168.10.200
+* Do you want to revert to HTTP as th webConfigurator protocol? (y/n) y
+<img src="Paso12.png" alt="">
+<img src="Paso13.png" alt="">
