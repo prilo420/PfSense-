@@ -1,10 +1,10 @@
 # PfSense
 Nombre: Juan Felipe Criollo Valderrama
-## Documentación
+### Documentación
 
-# creacion de redes NAT
+## creacion de redes NAT
 
-1. vamos a herramientas y luego selecionamos (RED)
+1. vamos a herramientas y seleccionamos el menu, luego selecionamos (RED)
 <img src="Paso_r1.png" alt="">
 
 2. selecionamos RED NAT, luego le damos click derecho y selecionamos crear
@@ -14,9 +14,11 @@ Nombre: Juan Felipe Criollo Valderrama
 
 3. cambiamos el nombre, desmaracmos el DHCP y ponemos una ip
 <img src="redes2.png" alt="">
+
+---
    
-# Instalación y configuracion de maquinas 
-##  PfSense
+## Instalación y configuracion de maquinas 
+###  PfSense
 
 1. Crear la maquina de pfSense y colocamos la iso
 <img src="maquina1.png" alt="">
@@ -76,4 +78,11 @@ Nombre: Juan Felipe Criollo Valderrama
 * Enter the end address of the Ipv4... range: 192.168.10.200
 * Do you want to revert to HTTP as th webConfigurator protocol? (y/n) y
 <img src="Paso12.png" alt="">
+
+16. ingresamos esta URL en el navegador FireFOX del Equipo001
 <img src="Paso13.png" alt="">
+
+---
+
+### Equipo001
+
