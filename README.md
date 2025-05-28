@@ -64,4 +64,4 @@ Nombre: Juan Felipe Criollo Valderrama
 14. seleccionamos
 *
 *
-<img src="Paso_r1.png" alt="">
+<img src=".png" alt="">
