@@ -89,7 +89,7 @@ Nombre: Juan Felipe Criollo Valderrama
 1. exportamos la mquina
 * la seleccionamos y le damos doble clik
 * le damos en terminar
-<img src="Eq.png" alt="">
+<img src="Eq0.png" alt="">
 <img src="Eq1.png" alt="">
 
 2. configuramos los adaptadores de RED
