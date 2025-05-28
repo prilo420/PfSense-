@@ -62,6 +62,9 @@ Nombre: Juan Felipe Criollo Valderrama
 <img src="Paso10.png" alt="">
 
 14. seleccionamos
-*
-*
-<img src=".png" alt="">
+* Configure Ipv4 address LAN interface via DHCP (y/n) n
+* Enter the new LAN Ipv4 address. Press <ENTER> for none:
+  > 192. 168.10.1
+* Enter the new LAN IPv4 subnet bit count (1 to 32):
+  > 24
+<img src="Paso11.png" alt="">
