@@ -86,3 +86,19 @@ Nombre: Juan Felipe Criollo Valderrama
 
 ### Equipo001
 
+1. exportamos la mquina
+* la seleccionamos y le damos doble clik
+* le damos en terminar
+<img src="Eq.png" alt="">
+<img src="Eq1.png" alt="">
+
+2. configuramos los adaptadores de RED
+* en Adaptador 1: seleccionamos RED NAT 
+* en Nombre: LAN
+<img src="Eq2.png" alt="">
+
+3. configuramos el SIstema
+* Procesadores: 4
+* Memoria base: 2048MB
+
+---
