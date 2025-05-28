@@ -4,10 +4,10 @@ Nombre: Juan Felipe Criollo Valderrama
 
 # creacion de redes NAT
 
-1. vamos a herramientas y luego selecionamos red
+1. vamos a herramientas y luego selecionamos (RED)
 <img src="Paso_r1.png" alt="">
 
-2. selecionamos red NAT, luwgo le damos click derecho y selecionamos crear
+2. selecionamos RED NAT, luego le damos click derecho y selecionamos crear
 <img src="Paso_r2.png" alt="">
 
 <img src="Paso_r3.png" alt="">
