@@ -26,5 +26,5 @@ Nombre: Juan Felipe Criollo Valderrama
 <img src="maquina3.png" alt="">
 
 4. Configuracion de la red
-<img src="rede1.png" alt="">
+<img src="redes1.png" alt="">
 
