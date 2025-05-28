@@ -102,3 +102,22 @@ Nombre: Juan Felipe Criollo Valderrama
 * Memoria base: 2048MB
 
 ---
+
+### Web001
+
+1. exportamos la mquina
+* la seleccionamos y le damos doble clik
+* le damos en terminar
+<img src="W0.png" alt="">
+<img src="W1.png" alt="">
+
+2. configuramos los adaptadores de RED
+* en Adaptador 1: seleccionamos RED NAT 
+* en Nombre: DMZ
+<img src="W2.png" alt="">
+
+3. configuramos el SIstema
+* Procesadores: 2
+* Memoria base: 2048M
+
+---
