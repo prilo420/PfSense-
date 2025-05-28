@@ -16,7 +16,7 @@ Nombre: Juan Felipe Criollo Valderrama
 # Instalación y configuracion de maquinas 
 ##  PfSense
 
-1. Crear la maquina de pfSense
+1. Crear la maquina de pfSense y colocamos la iso
 <img src="maquina1.png" alt="">
 
 2. Configuramos la memoria  y los procesadores
@@ -27,4 +27,7 @@ Nombre: Juan Felipe Criollo Valderrama
 
 4. Configuracion de la red
 <img src="redes1.png" alt="">
+<img src="redes3.png" alt="">
 
+5. iniciamos la maquina
+<img src="paso.png" alt="">
