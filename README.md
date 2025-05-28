@@ -56,3 +56,12 @@ Nombre: Juan Felipe Criollo Valderrama
 12. se quita el disco optico para que no se vuelva reniciar la instalacion
 <img src="Paso9.png" alt="">
 
+13. seleccionamos 
+* Enter an option: 2
+* Enter the number of the interface you wich to configure: 2
+<img src="Paso10.png" alt="">
+
+14. seleccionamos
+*
+*
+<img src="Paso_r1.png" alt="">
