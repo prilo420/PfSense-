@@ -166,6 +166,6 @@ Nombre: Juan Felipe Criollo Valderrama
 
 <img src="pag10.png" alt="">
 
-<img src="pag11.png" alt="">
+<img src="pa11.png" alt="">
 
 <img src="pag12.png" alt="">
