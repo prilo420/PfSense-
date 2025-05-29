@@ -164,7 +164,9 @@ Nombre: Juan Felipe Criollo Valderrama
 
 <img src="pag9.png" alt="">
 
+*  Ponemos en Address Pool Range (192.168.20.100) (192...200)
 <img src="pag10.png" alt="">
+
 * Ponemos la ip En los DNS server (8.8.8.8, 8.8.4.4)
 <img src="Pa11.png" alt="">
 
