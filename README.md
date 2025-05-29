@@ -175,3 +175,18 @@ Nombre: Juan Felipe Criollo Valderrama
 
 * Guardamos
 <img src="pag12.png" alt="">
+
+7. Configuración de la regla NAT y reglas del firewall
+* Ve a Firewall > NAT > Port Forward y crea una regla
+* configuramos para que redirija el tráfico entrante en la interfaz WAN, puerto 80, hacia la IP interna del servidor web en el puerto 80.
+<img src="fi1.png" alt="">
+
+<img src="fi2.png" alt="">
+
+<img src="fi2.png" alt="">
+
+<img src="fi3.png" alt="">
+
+<img src="fi4.png" alt="">
+
+<img src="fi5.png" alt="">
