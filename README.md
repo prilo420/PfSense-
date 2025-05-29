@@ -165,7 +165,8 @@ Nombre: Juan Felipe Criollo Valderrama
 <img src="pag9.png" alt="">
 
 <img src="pag10.png" alt="">
-
+* Ponemos la ip En los DNS server (8.8.8.8, 8.8.4.4)
 <img src="Pa11.png" alt="">
 
+* Guardamos
 <img src="pag12.png" alt="">
