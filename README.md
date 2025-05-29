@@ -159,3 +159,13 @@ Nombre: Juan Felipe Criollo Valderrama
 * revisamos que todos los campos
 
 <img src="pag7.png" alt="">
+
+<img src="pag8.png" alt="">
+
+<img src="pag9.png" alt="">
+
+<img src="pag10.png" alt="">
+
+<img src="pag11.png" alt="">
+
+<img src="pag12.png" alt="">
