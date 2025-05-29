@@ -162,8 +162,11 @@ Nombre: Juan Felipe Criollo Valderrama
 
 <img src="pa8.png" alt="">
 
+* Guardamos
+
 <img src="pag9.png" alt="">
 
+6. Configuramos DHCP Server / DMZ
 *  Ponemos en Address Pool Range (192.168.20.100) (192...200)
 <img src="pag10.png" alt="">
 
