@@ -121,3 +121,32 @@ Nombre: Juan Felipe Criollo Valderrama
 * Memoria base: 2048M
 
 ---
+
+## web PfSense
+
+1. En el navegador ponemos esta IP 192.168.10.1/
+* en usuario (admin) y en password (pfsense)
+
+2. Configuramos las interfaces
+* seleccionamos interfaces, luego Asignnments
+<img src="pag0.png" alt="">
+
+3. Se añade una nueva Interfaz
+* seleccionamos ADD
+* Seleccionamos OPT1
+<img src="pag1.png" alt="">
+
+4. Configuramos la nueva interfaz
+* marcamos en ENABLE ENABLE INTERFACE
+* cambiamos la Descripcion (DMZ)
+* Seleccionamos en IPv4 Configuration type   Static IPv4
+
+<img src="pag2.png" alt="">
+
+* Ponemos en IP Address (192.168.20.1) /24
+
+<img src="pag3.png" alt="">
+
+<img src="pag4.png" alt="">
+
+<img src="pag2.png" alt="">
