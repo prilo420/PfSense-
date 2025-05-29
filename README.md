@@ -178,15 +178,19 @@ Nombre: Juan Felipe Criollo Valderrama
 
 7. Configuración de la regla NAT y reglas del firewall
 * Ve a Firewall > NAT > Port Forward y crea una regla
-* configuramos para que redirija el tráfico entrante en la interfaz WAN, puerto 80, hacia la IP interna del servidor web en el puerto 80.
+* configuramos para que redirija el tráfico entrante en la interfaz WAN, puerto 80, Protocol TPC, Address Family IPv4,hacia la IP interna del servidor web en el puerto 80.
 <img src="fi1.png" alt="">
 
 <img src="fi2.png" alt="">
 
 <img src="fi2.png" alt="">
 
+* Destination port range HTTP.
+* Redirect target port HTTP 
+* Description NAT_Redirgir Puerto 80 a Servidor Web en DMZ
 <img src="fi3.png" alt="">
-
+* Guardamos
 <img src="fi4.png" alt="">
+
 
 <img src="fi5.png" alt="">
