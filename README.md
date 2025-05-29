@@ -192,3 +192,45 @@ Nombre: Juan Felipe Criollo Valderrama
 
 
 <img src="fi5.png" alt="">
+
+
+* Ir a NAT > Port Forward: En el menú superior, selecciona Firewall y luego NAT. Dentro de NAT, elige la pestaña Port Forward.
+
+* Agregar una nueva regla: Haz clic en el botón + Add para crear una nueva redirección NAT.
+
+* Configurar la interfaz y el protocolo:
+
+* Interface: Selecciona WAN. Esto indica que la regla se aplicará al tráfico entrante en la interfaz WAN.
+
+* Address Family: Selecciona IPv4 (generalmente la opción por defecto en este laboratorio).
+
+* Protocol: Escoge TCP, ya que el servicio SSH utiliza este protocolo.
+
+* Configurar el rango de puertos de destino (Destination port range): Aquí definirás sobre qué puerto o rango de puertos se activará la redirección:
+
+* From port (Custom): Ingresa 22.
+
+* To port (Custom): Ingresa también 22. Esto indica que solo se interceptará el tráfico entrante dirigido al puerto 22.
+
+* Configurar el redireccionamiento al dispositivo interno:
+
+* Redirect target IP: Introduce la IP del puesto de trabajo en la LAN, por ejemplo, 192.168.10.Y (reemplaza “Y” con el número concreto que hayas asignado a ese dispositivo).
+
+* Redirect target port: Ingresa 22, de modo que el tráfico recibido en el puerto 22 de la WAN se redirija al puerto 22 del puesto de trabajo.
+
+* Otras configuraciones y descripción:
+
+* Description: Es recomendable agregar una descripción, por ejemplo: "NAT - Redirigir puerto 22 a Puesto de Trabajo"
+
+* Deja los demás parámetros en sus valores por defecto, por ejemplo:
+
+* Disable/Disable this rule: Sin marcar, para mantener la regla activa.
+
+* No RDR: Sin marcar (permite la redirección).
+
+* NAT Reflection: Normalmente se deja en “Disable” a menos que necesites que los equipos internos usen la IP pública para conectarse.
+
+* File Rule Association: Se completa automáticamente para asociar la regla NAT a la correspondiente regla de firewall.
+<img src="fi6.png" alt="">
+
+<img src="fi7.png" alt="">
