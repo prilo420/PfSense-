@@ -150,3 +150,12 @@ Nombre: Juan Felipe Criollo Valderrama
 <img src="pag4.png" alt="">
 
 <img src="pag5.png" alt="">
+
+5. revisamos DHCP server / lAN
+* seleccionamos Services / DHCP sever
+
+<img src="pag6.png" alt="">
+
+* revisamos que todos los campos
+
+<img src="pag7.png" alt="">
