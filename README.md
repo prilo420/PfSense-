@@ -145,8 +145,8 @@ Nombre: Juan Felipe Criollo Valderrama
 
 * Ponemos en IP Address (192.168.20.1) /24
 
-<img src="pag5.png" alt="">
+<img src="pag3.png" alt="">
 
 <img src="pag4.png" alt="">
 
-<img src="pag2.png" alt="">
+<img src="pag5.png" alt="">
