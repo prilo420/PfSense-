@@ -129,12 +129,12 @@ Nombre: Juan Felipe Criollo Valderrama
 
 2. Configuramos las interfaces
 * seleccionamos interfaces, luego Asignnments
-<img src="pag0.png" alt="">
+<img src="pa0.png" alt="">
 
 3. Se añade una nueva Interfaz
 * seleccionamos ADD
 * Seleccionamos OPT1
-<img src="pag1.png" alt="">
+<img src="pa1.png" alt="">
 
 4. Configuramos la nueva interfaz
 * marcamos en ENABLE ENABLE INTERFACE
@@ -160,7 +160,7 @@ Nombre: Juan Felipe Criollo Valderrama
 
 <img src="pag7.png" alt="">
 
-<img src="pag8.png" alt="">
+<img src="pa8.png" alt="">
 
 <img src="pag9.png" alt="">
 
