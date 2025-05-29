@@ -183,8 +183,6 @@ Nombre: Juan Felipe Criollo Valderrama
 
 <img src="fi2.png" alt="">
 
-<img src="fi2.png" alt="">
-
 * Destination port range HTTP.
 * Redirect target port HTTP 
 * Description NAT_Redirgir Puerto 80 a Servidor Web en DMZ
